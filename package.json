@@ -1,5 +1,5 @@
 {
-  "name": "fem-dictionary-web-app",
+  "name": "web-dictionary-app",
   "version": "1.0.0",
   "description": "Front-end mentor dictionary web app",
   "main": "index.js",
@@ -12,12 +12,12 @@
     "type": "git",
     "url": "git+https://github.com/jefcooper/fem-dictionary-web-app.git"
   },
-  "author": "Jeff Cooper",
+  "author": "CodeWunder",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jefcooper/fem-dictionary-web-app/issues"
+    "url": "https://github.com/CodeWunder/Web-Dictionary-App"
   },
-  "homepage": "https://github.com/jefcooper/fem-dictionary-web-app#readme",
+  "homepage": "https://github.com/CodeWunder/Web-Dictionary-App#readme",
   "devDependencies": {
     "glob": "^8.0.3",
     "path": "^0.12.7",
